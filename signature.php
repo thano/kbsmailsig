@@ -7,6 +7,8 @@
     <script type="text/javascript" src="js/materialize.min.js"></script>
     <script type="text/javascript" src="js/getSignature.js"></script>
     <link rel="stylesheet" href="css/main.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> 
+
     <!--<link type="text/css" rel="stylesheet" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css" /> -->
     <!--Import materialize.css -->
 </head>
@@ -73,9 +75,10 @@ if($_GET['website']){
 
                                     <tr><td width="20" valign="top" style="vertical-align: top; width: 20px; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><span><a href="tel:<?php echo $cell;?>" style="color:#1481B1;text-decoration: none;font-size: 14px;"><?php echo $cell;?></a></span></td></tr>
 
-                                    <tr><td width="20" valign="top" style="vertical-align: top; width: 20px; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><img src="icos/skype.png">&nbsp;<?php echo $video_call; ?></td></tr>
+                                    <tr><td width="20" valign="top" style="vertical-align: top; width: 20px; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><i class="fa fa-video-camera" aria-hidden="true"></i>&nbsp;<?php echo $video_call; ?></td></tr>
 
-                                    <tr><td valign="top" style="vertical-align: top; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><img src="icos/email.png">&nbsp;<a href="mailto:<?php echo $email;?>" style="color: #1481B1; text-decoration: none; font-weight: normal; font-size: 14px;"><?php echo $email;?></a></td></tr>
+                                    <tr><td valign="top" style="vertical-align: top; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:<?php echo $email;?>" style="color: #1481B1; text-decoration: none; font-weight: normal; font-size: 14px;"><?php echo $email;?></a></td></tr>
+
 
                                         <!--<tr><td valign="top" style="vertical-align: top; color: #202969; font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="<?php //echo $website;?>" style="color: #1481B1; text-decoration: none; font-weight: normal; font-size: 14px;">
 

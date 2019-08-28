@@ -18,7 +18,7 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-        <link rel="stylesheet" href="css/forms-min.css">
+        <!--<link rel="stylesheet" href="css/forms-min.css"> -->
         <link rel="stylesheet" href="css/buttons-min.css">
         <link href='http://fonts.googleapis.com/css?family=Voces' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Rock+Salt' rel='stylesheet' type='text/css'>
@@ -74,7 +74,7 @@
                         <label for="company">Company</label>                    
                     </div>
                     <div class="input-field">
-                        <i class="material-icons prefix">video_call</i>
+                        <i class="material-icons prefix">headset_mic</i>
                         <input type="text" name="video_call" id="video_call" onblur="httpFunction()">
                         <label for="video_call">Video Call Link</label>                    
                     </div>
