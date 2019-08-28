@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:url(#SVGID_9_);}
+	.st9{fill:#00AFF0;}
+	.st10{clip-path:url(#SVGID_11_);}
+	.st11{fill:#B9000A;}
+	.st12{fill:#0034E7;}
+	.st13{fill:#FFFFFF;}
+	.st14{fill:#F4FF00;}
+	.st15{clip-path:url(#SVGID_13_);}
+	.st16{fill:url(#SVGID_14_);}
+	.st17{fill:url(#SVGID_15_);}
+	.st18{fill:url(#SVGID_16_);}
+	.st19{fill:url(#SVGID_17_);}
+	.st20{fill:url(#SVGID_18_);}
+	.st21{fill:url(#SVGID_19_);}
+	.st22{fill:url(#SVGID_20_);}
+	.st23{fill:#007BC6;}
+	.st24{fill:url(#SVGID_21_);}
+	.st25{fill:url(#SVGID_22_);}
+	.st26{fill:url(#SVGID_23_);}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.9601" y1="3.0399" x2="3.0399" y2="12.9601">
+		<stop  offset="0" style="stop-color:#00B6CC"/>
+		<stop  offset="0.1519" style="stop-color:#00ADC4"/>
+		<stop  offset="0.4046" style="stop-color:#0293AD"/>
+		<stop  offset="0.7246" style="stop-color:#046A88"/>
+		<stop  offset="0.9944" style="stop-color:#064264"/>
+	</linearGradient>
+	<circle class="st0" cx="8" cy="8" r="7.01"/>
+</g>
+<g>
+	<path class="st13" d="M6.15,4.77c0,0.45-0.34,0.83-0.92,0.83c-0.56,0-0.89-0.38-0.89-0.83c0-0.46,0.34-0.83,0.91-0.83
+		C5.81,3.94,6.14,4.31,6.15,4.77z M4.39,11.45V6.24h1.7v5.21H4.39z"/>
+	<path class="st13" d="M7.49,7.94c0-0.68-0.02-1.24-0.04-1.7h1.47L9,7h0.04c0.19-0.31,0.75-0.89,1.73-0.89
+		c1.09,0,2.02,0.68,2.02,2.34v3h-1.7V8.69c0-0.75-0.29-1.22-0.93-1.22c-0.52,0-0.8,0.36-0.92,0.66C9.2,8.23,9.19,8.37,9.19,8.5v2.95
+		h-1.7V7.94z"/>
+</g>
+</svg>
