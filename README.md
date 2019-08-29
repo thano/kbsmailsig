@@ -1,4 +1,4 @@
-# Material Design Email Signature Generator
+# KBS Mail Sig
 A pretty simple and pretty email signature generator for your office.
 
 ![screenshot](https://thano.github.io/kbs/img/right-img.JPG)
@@ -19,4 +19,3 @@ Change the markup inside
 ```html
 <div id="signature">...</div>
 ```
-To change how the email is constructed.
